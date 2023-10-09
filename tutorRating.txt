@@ -1,0 +1,31 @@
+%YAML 1.2
+---
+# Metadata about correction (ignored during upload)
+term: Summer 2022
+school: Institut für Informatik
+course: Quantum Applications
+sheet:
+  name: "Online-Hausarbeit Teil 3"
+  type: "exam-part-points"
+  grading:
+    max: 50
+    type: points
+  "exam-part":
+    "exam-name": "Online-Hausarbeit"
+    "exam-part-number": "3"
+  weight:
+    denominator: 1
+    numerator: 1
+rated_by: Jonas Nüßlein
+rated_at: "Fri 19 Aug 2022 14:03"
+
+# Submission id; will be compared to the filename during upload
+submission: uwagwgl3q4dzujdc
+
+# Rating
+points: 50 # TODO: Insert number of points instead of null (up to two decimal places, use period as a decimal separator; e.g. 17.03)
+rating_done: true # TODO: Set to true instead of false, when correction is finished; otherwise correction will not be visible to students and won't be counted for exam bonus
+
+# TODO: Enter correction comment after the separator below (...)
+...
+#
